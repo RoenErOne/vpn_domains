@@ -1,3 +1,33 @@
+#-------------antropic_domains
+
+ant.dev
+anthropic.com
+anthropic.team
+antspace.dev # https://github.com/AprilNEA/reverse-engineering-claude-code-antspace
+chatbotclaude.com
+clau.de
+claude.ai
+claude.app
+claude.com
+claude.dev
+claude.new
+claude.site
+claudeacademy.com
+claudemcpclient.com
+claudemcpcontent.com
+claudepages.dev
+claudestudio.com
+claudeusercontent.com
+stripe.com
+stripe.network
+statsigapi.net
+statsig.com
+sentry.io
+160.79.104.0/23
+
+# CDN
+servd-anthropic-website.b-cdn.net
+
 #-------------gemini_domains
 
 deepmind.com
